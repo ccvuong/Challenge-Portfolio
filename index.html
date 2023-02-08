@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,12 +11,12 @@
 
 <body>
     <header>
-            <h1>CV</h1>
+        <h1>CV</h1>
         <nav>
             <ul class="nav-links">
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>  
+                <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>
@@ -29,42 +30,52 @@
     <main>
 
         <div class="card">
+            <img src="./assets/css/images/sticky notes.jpg" class="card-img" alt="post-it image">
+            <div class="card-body">
+
+                <h1 class="card-title">Noted</h1>
+                <p class="card-sub-title">Scheduling</p>
+                <p class="card-info">Personal scheduler to keep track of recipes and your health</p>
+
+
+                <button onclick="location.href='https://jonahscottlewis.github.io/noted/'" type="button"
+                    class="card-btn">
+                    see more</button>
+
+            </div>
+        </div>
+
+        <div class="card">
             <img src="./assets/css/images/TapiTea splash screen.png" class="card-img" alt="TapiTea image">
             <div class="card-body">
-                
+
                 <h1 class="card-title">TapiTea</h1>
                 <p class="card-sub-title">Delivery App</p>
                 <p class="card-info">Bringing happiness with a simple sip to those in the Tri-Valley Tracy Area!</p>
-                    
-                <button class="card-btn">see more</button>
+
+                <button onclick="location.href='https://www.behance.net/gallery/151287035/TapiTea-Mobile-App'" type="button"
+                    class="card-btn">
+                    see more</button>
             </div>
-        </div> 
+        </div>
 
         <div class="card">
             <img src="./assets/css/images/know HBV mockup.png" class="card-img" alt="Know HBV image">
             <div class="card-body">
-                
+
                 <h1 class="card-title">Know HBV</h1>
                 <p class="card-sub-title">Medical App</p>
                 <p class="card-info">Hepatitis B Treatment Decision Tool For Adults</p>
-                    
-                <button class="card-btn">see more</button>
+
+                <button onclick="location.href='https://www.behance.net/gallery/138914429/Know-HBV-Medical-App'" type="button"
+                    class="card-btn">
+                    see more</button>
             </div>
         </div>
-        
-        <div class="card">
-            <img src="./assets/css/images/eCampus Postcard.png" class="card-img" alt="ecampus postcard image">
-            <div class="card-body">
-                
-                <h1 class="card-title">eCampus</h1>
-                <p class="card-sub-title">Internship</p>
-                <p class="card-info">Website Assets and Icon Management</p>
-                    
-                <button class="card-btn">see more</button>
-            </div>
-        </div>
-    </main> 
-    
+
+
+    </main>
+
     <section class="About">
         <div id="about" class="about">
             <div class="logo">
@@ -72,41 +83,43 @@
                 <div class="about-body">
 
                     <h2 class="about-me">About</h2>
-                    <p class="about-descr">How's it going? Christina here. 👋 A designer trying to understand the coding world. ✨</p>
+                    <p class="about-descr">How's it going? Christina here. 👋 A designer trying to understand the coding
+                        world. ✨</p>
 
                 </div>
             </div>
         </div>
     </section>
-    
+
     <form class="Contact">
         <div id="contact" class="contact">
             <h2>Get in touch!</h2>
         </div>
-        
-        <p class ="username">
-          <label for="username">Name</label>
-          <input class="text-input" id="username" type="text" placeholder="First Last Name" />
+
+        <p class="username">
+            <label for="username">Name</label>
+            <input class="text-input" id="username" type="text" placeholder="First Last Name" />
         </p>
 
         <p class="email">
-          <label for="email">E-mail</label>
-          <input class="text-input" id="email" type="text" placeholder="johnsmith@example.com" />
+            <label for="email">E-mail</label>
+            <input class="text-input" id="email" type="text" placeholder="johnsmith@example.com" />
         </p>
-        
+
         <p class="message">
-          <label for="comment">Message</label>
-          <textarea class="text-input" id="comment" placeholder="Description"></textarea>
+            <label for="comment">Message</label>
+            <textarea class="text-input" id="comment" placeholder="Description"></textarea>
         </p>
 
         <p class="submit-btn">
-          <button>Submit</button>
+            <button>Submit</button>
         </p>
-      </form>
+    </form>
 
     <div class="footer">
         <p> &copy 2022 Christina Vuong </p>
         <div class="footer-contact-form"></div>
-    </footer>
+        </footer>
 </body>
+
 </html>
