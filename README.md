@@ -28,4 +28,4 @@ This challenge you’ll set yourself up for future success by applying the core 
 [😎 Christina Vuong ](https://github.com/ccvuong)
 
 ## Licenses
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+© 2022 Christina Vuong
