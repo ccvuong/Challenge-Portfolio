@@ -14,14 +14,11 @@ This challenge you’ll set yourself up for future success by applying the core 
 - [Licenses 🗒](#licenses)
 
 ## Portfolio
-[🔥 Portfolio Website](https://ccvuong.github.io/Advanced-CSS-Challenge-Professional-Portfolio/)
+[🔥 Portfolio Website](https://ccvuong.github.io/Portfolio/)
 
 ## Preview
 
 ![cv portfolio desktop version](https://user-images.githubusercontent.com/116984891/209420180-44733038-7df7-412c-82f3-363017fb7d93.gif)
-
-![cv portfolio mobile version](https://user-images.githubusercontent.com/116984891/209420216-f2e8ec19-7dca-4cc3-9369-f89fb0303855.gif)
-
 
 
 ## Contributors
