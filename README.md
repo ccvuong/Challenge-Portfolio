@@ -14,7 +14,7 @@ This challenge you’ll set yourself up for future success by applying the core 
 - [Licenses 🗒](#licenses)
 
 ## Portfolio
-[🔥 Portfolio Website](https://ccvuong.github.io/Portfolio/)
+[🔥 Portfolio Website]([https://ccvuong.github.io/Portfolio](https://ccvuong.github.io/Challenge-Portfolio/)/)
 
 ## Preview
 
